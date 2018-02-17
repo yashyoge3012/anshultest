@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressMenu>
+<AZ>
+<address1>71 Pilgrim Avenue</address1>
+<address2>Chevy Chase</address2>
+<city>TUCSON</city>
+<state>AZ</state>
+<Postakcode>85705</Postakcode>
+<Phone>895-895-8956</Phone>
+<Email>yoge.anshul@gmail.com</Email>
+</AZ>
+<CC>
+<address1>71 Pilgrim Avenue</address1>
+<address2>Chevy Chase</address2>
+<city>TUCSON</city>
+<state>AZ</state>
+<Postakcode>85705</Postakcode>
+<Phone>895-895-8956</Phone>
+<Email>yoge.anshul@gmail.com</Email>
+</CC>
+<CZ>
+<address1>71 Pilgrim Avenue</address1>
+<address2>Chevy Chase</address2>
+<city>TUCSON</city>
+<state>AZ</state>
+<Postakcode>85705</Postakcode>
+<Phone>895-895-8956</Phone>
+<Email>yoge.anshul@gmail.com</Email>
+</CZ>
+</AddressMenu>
